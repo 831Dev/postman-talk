@@ -1,2 +1,1 @@
-# postman-talk
-API Testing and Automation using Postman
+#API Testing and Automation using Postman

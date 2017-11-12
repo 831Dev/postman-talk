@@ -1,0 +1,10 @@
+.no-border{
+    margin: 15px 0;
+    background: none; 
+    border: none; 
+    box-shadow: none;
+}
+
+.box-placeholder{
+    background-color:#fff;opacity:.90;border-radius: 10px;
+}
